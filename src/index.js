@@ -8,6 +8,8 @@ module.exports = {
   random: random, 
 };
 
+console.log("This is my first time change");
+
 function random(number) {
   if (!number) {
     return getRandomItem();
