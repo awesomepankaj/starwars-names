@@ -9,6 +9,7 @@ module.exports = {
 };
 
 console.log("This is my first time change");
+console.log("This is my second time change");
 
 function random(number) {
   if (!number) {
